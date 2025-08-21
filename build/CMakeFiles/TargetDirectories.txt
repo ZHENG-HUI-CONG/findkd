@@ -1,0 +1,4 @@
+/home/es912/Downloads/find_KD1/build/CMakeFiles/rebuild_cache.dir
+/home/es912/Downloads/find_KD1/build/CMakeFiles/edit_cache.dir
+/home/es912/Downloads/find_KD1/build/CMakeFiles/fishwold.dir
+/home/es912/Downloads/find_KD1/build/CMakeFiles/findkd.dir
